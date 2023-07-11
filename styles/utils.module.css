@@ -1,0 +1,124 @@
+.heading2Xl {
+    font-size: 1.1rem;
+    line-height: .1;
+    font-weight: 600;
+    letter-spacing: -0.05rem;
+    margin: 1rem 1.5rem;
+    translate: 5px;
+    color: white;
+}
+
+.account {
+    translate: 10px;
+    transform: translateY(8px);
+}
+
+.headingR {
+    font-size: 1.1rem;
+    color: white;
+    line-height: .25;
+    padding: 0px;
+    font-weight: 600;
+    letter-spacing: -0.05rem;
+    margin: 1rem 1rem;
+}
+
+.navbarImages{
+    translate: 8px;
+}
+  .headingXl {
+    font-size: 2rem;
+    line-height: 1.3;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+  }
+  
+  .headingLg {
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+  }
+  
+  .borderCircle {
+    border-radius: 9px;
+  }
+
+  .headingMd {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .colorInherit {
+    color: inherit;
+  }
+  
+  .padding1px {
+    padding-top: 1px;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .listItem {
+    margin: 0 0 1.25rem;
+  }
+  
+  .lightText {
+    color: #666;
+  }
+
+.h2 {
+    align-items: center;
+}
+
+.verticalBar {
+    text-align: center;
+    font-size: .8rem;
+    color: white;
+    padding: 0px 0px 20px 0px;
+    font-weight: 600;
+    translate: 0px;
+    transform: translateY(8px);
+    letter-spacing: -0.05rem;
+    margin: 1rem -1rem;
+}
+
+.verticalImages {
+    display: block;
+    transform: translateY(25px);
+    translate: 15px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 0px 70px;
+    height: 100%;
+    width: 100%;
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto;
+}
+
+.contentText {
+    display: block;
+    list-style-type: none;
+    text-align: left;
+    font-size: .8rem;
+    color: white;
+    font-weight: 600;
+}
+
+.contentBox {
+    padding: 50px 0px 450px 0px;
+    transform: translateY(-37px);
+
+}
+
+.filestyle {
+  background-color: #3a3a3a;
+}
+
